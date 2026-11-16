@@ -33,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/sawarun915373-wq/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/sawarun915373-wq/leetcode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 | [0015-3sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sawarun915373-wq/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sawarun915373-wq/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
