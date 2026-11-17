@@ -41,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/sawarun915373-wq/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sawarun915373-wq/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
 ## Algorithm X
 |  |
 | ------- |
