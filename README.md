@@ -19,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawarun915373-wq/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sawarun915373-wq/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sawarun915373-wq/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0036-valid-sudoku](https://github.com/sawarun915373-wq/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/sawarun915373-wq/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sawarun915373-wq/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sawarun915373-wq/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
