@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawarun915373-wq/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sawarun915373-wq/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sawarun915373-wq/leetcode/tree/master/0016-3sum-closest) |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
