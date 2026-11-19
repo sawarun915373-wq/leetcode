@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sawarun915373-wq/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
