@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sawarun915373-wq/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sawarun915373-wq/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
