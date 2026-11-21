@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/sawarun915373-wq/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sawarun915373-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sawarun915373-wq/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/sawarun915373-wq/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
 ## Sliding Window
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -192,4 +195,8 @@
 | [0100-same-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0112-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
