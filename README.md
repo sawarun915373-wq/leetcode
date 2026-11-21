@@ -62,6 +62,7 @@
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/sawarun915373-wq/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawarun915373-wq/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -77,6 +78,7 @@
 | [0027-remove-element](https://github.com/sawarun915373-wq/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sawarun915373-wq/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@
 | [0015-3sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sawarun915373-wq/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sawarun915373-wq/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -199,4 +202,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
