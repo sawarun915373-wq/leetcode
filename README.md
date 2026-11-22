@@ -62,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/sawarun915373-wq/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sawarun915373-wq/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawarun915373-wq/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarun915373-wq/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
 ## Manacher
 |  |
