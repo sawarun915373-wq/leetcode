@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sawarun915373-wq/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
@@ -93,6 +94,7 @@
 | [0031-next-permutation](https://github.com/sawarun915373-wq/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
