@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/sawarun915373-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sawarun915373-wq/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Matrix
 |  |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
