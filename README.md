@@ -20,6 +20,7 @@
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sawarun915373-wq/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -262,4 +266,12 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sawarun915373-wq/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
