@@ -258,4 +258,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sawarun915373-wq/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
