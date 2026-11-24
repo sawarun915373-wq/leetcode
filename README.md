@@ -19,6 +19,7 @@
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
 ## Manacher
 |  |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sawarun915373-wq/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0101-symmetric-tree) |
@@ -221,6 +224,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sawarun915373-wq/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0101-symmetric-tree) |
@@ -248,6 +252,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sawarun915373-wq/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Newton's Method
 |  |
