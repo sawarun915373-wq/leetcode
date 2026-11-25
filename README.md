@@ -65,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawarun915373-wq/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sawarun915373-wq/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sawarun915373-wq/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0090-subsets-ii) |
+| [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@
 | [0056-merge-intervals](https://github.com/sawarun915373-wq/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sawarun915373-wq/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
+| [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Dynamic Programming
 |  |
@@ -277,4 +281,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
