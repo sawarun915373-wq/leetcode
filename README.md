@@ -94,6 +94,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sawarun915373-wq/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sawarun915373-wq/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/sawarun915373-wq/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sawarun915373-wq/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
@@ -190,6 +191,7 @@
 | [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
+| [0152-maximum-product-subarray](https://github.com/sawarun915373-wq/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Manacher
 |  |
