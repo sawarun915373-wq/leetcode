@@ -162,6 +162,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sawarun915373-wq/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sawarun915373-wq/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/sawarun915373-wq/leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/sawarun915373-wq/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sawarun915373-wq/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
