@@ -9,6 +9,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sawarun915373-wq/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
