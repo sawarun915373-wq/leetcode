@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/sawarun915373-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sawarun915373-wq/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/sawarun915373-wq/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sawarun915373-wq/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sawarun915373-wq/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/sawarun915373-wq/leetcode/tree/master/0065-valid-number) |
