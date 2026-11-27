@@ -53,6 +53,7 @@
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sawarun915373-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sawarun915373-wq/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/sawarun915373-wq/leetcode/tree/master/0038-count-and-say) |
@@ -154,6 +155,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0090-subsets-ii) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawarun915373-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/sawarun915373-wq/leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sawarun915373-wq/leetcode/tree/master/0097-interleaving-string) |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bucket Sort
 |  |
