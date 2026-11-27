@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/sawarun915373-wq/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sawarun915373-wq/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/sawarun915373-wq/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -32,6 +33,7 @@
 | [0010-regular-expression-matching](https://github.com/sawarun915373-wq/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sawarun915373-wq/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sawarun915373-wq/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/sawarun915373-wq/leetcode/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sawarun915373-wq/leetcode/tree/master/0273-integer-to-english-words) |
 ## Hash Table
