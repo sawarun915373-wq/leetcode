@@ -22,6 +22,7 @@
 | [0060-permutation-sequence](https://github.com/sawarun915373-wq/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sawarun915373-wq/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sawarun915373-wq/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sawarun915373-wq/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/sawarun915373-wq/leetcode/tree/master/0263-ugly-number) |
@@ -162,6 +163,7 @@
 | [0022-generate-parentheses](https://github.com/sawarun915373-wq/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sawarun915373-wq/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sawarun915373-wq/leetcode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/sawarun915373-wq/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
@@ -232,6 +234,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/sawarun915373-wq/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sawarun915373-wq/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/sawarun915373-wq/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sawarun915373-wq/leetcode/tree/master/0090-subsets-ii) |
 ## Tree
 |  |
